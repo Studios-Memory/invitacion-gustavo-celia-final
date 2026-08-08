@@ -1196,7 +1196,7 @@ body.pagina-bloqueada {
     gap: 3px;
 
     font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: clamp(17px, 2vw, 21px);
+    font-size: clamp(20px, 2.5vw, 25px);
     font-weight: 500;
     line-height: 1.05;
 
